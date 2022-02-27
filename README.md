@@ -1,6 +1,5 @@
 ### Hi there 👋
 
- - 🔭 I’m currently working on a system to identify university students in risk of dropout. Related services include: app to ingest and synchronize academic data, NoSQL data warehouse, web app to present data and issue alerts.
  - 🥇 I’m currently learning Web Development, DevOps / Systems Administration, and Machine Learning / Deep Learning.
  - 📫 How to reach me: joao.pmc20@gmail.com
 
