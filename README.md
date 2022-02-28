@@ -1,7 +1,6 @@
 ### Hi there 👋
 
  - 🥇 I’m currently learning Web Development, DevOps / Systems Administration, and Machine Learning / Deep Learning.
- - 📫 How to reach me: joao.pmc20@gmail.com
 
 <div>
   <a href="https://github.com/MrArgos">
